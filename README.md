@@ -55,7 +55,7 @@ b) useEffect()
 
 ## SpringMVC-RESTful-Web-Services
 
-<img src="images/spring-logo.png"  height="200" >
+<img src="images/spring-logo.png"  height="190" >
 
 ## Documentation
 
