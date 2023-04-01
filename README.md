@@ -101,7 +101,7 @@ com
          +- utils
 
 ### Spring Boot Flow Architecture:
-<img src="images/spring-boot-architecture.png"  height="200" >
+<img src="images/spring-boot-architecture.png"  height="250" >
 
 ### The basic functionalities of the API :
 
